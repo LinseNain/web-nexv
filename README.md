@@ -28,8 +28,7 @@ Sitio web oficial de **Nex-v**, una agencia especializada en impulsar la presenc
 
 ¡Estamos aquí para ayudarte a crecer en el mundo digital!
 
-📧 **Email**: hola@nex-v.com  
-📱 **Teléfono**: +34 900 123 456  
+📧 **Email**: linse.nexv@gmail.com 
 📍 **Ubicación**: Madrid, España
 
 ---
